@@ -1,0 +1,32 @@
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.nav {
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.projects {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+body {
+  background-color: #0278ae;
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 10px;
+  color: whitesmoke;
+  font-family: "Lobster";
+}
+.links {
+  color: whitesmoke;
+  font-weight: bold;
+}

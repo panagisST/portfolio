@@ -1,0 +1,51 @@
+h1 {
+  font-size: 120px;
+  text-align: center;
+  letter-spacing: 10px;
+}
+.contact-div {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  color: whitesmoke;
+}
+.nav {
+  padding-bottom: 5vh;
+}
+.nav {
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+body {
+  background-color: #0278ae;
+}
+.links {
+  color: whitesmoke;
+  font-weight: bold;
+}
+.mail {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 32px;
+  text-align: center;
+  color: whitesmoke;
+}
+.fa-envelope {
+  font-size: 40px;
+}
+.mail:hover {
+  color: gold;
+}
+
+.fa-home:hover {
+  color: gold !important ;
+}
